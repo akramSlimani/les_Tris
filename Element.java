@@ -1,5 +1,3 @@
-package TP1;
-
 public class Element {
 
 	private int cle;
@@ -40,10 +38,4 @@ public class Element {
 		return "Element [cle=" + cle + " val="+valeur+"]";
 	}
 	
-	/*
-	public static void main(String [] args){
-	  Element e= new Element(1,"akram");
-	  System.out.println(e);
-	}
-	*/
 }
