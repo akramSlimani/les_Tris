@@ -34,24 +34,26 @@ N'hésitez pas à explorer le code source et à exécuter le programme pour obse
 **Note**: Assurez-vous d'avoir les classes "Element", "TableauEl" et "Test" dans le même package (TP1) pour exécuter le programme correctement.
 
 ### Exemple d'exécution :
+
+Après avoir donnée une au tableau et choisi une méthode de tris
 ```java
-le tableau généré :
-Element [cle=153 val=kAaJs]
-Element [cle=3980 val=JHXo]
-Element [cle=358 val=fsW]
-Element [cle=1787 val=pQZK]
-Element [cle=2944 val=UaDfsO]
-...
+le tableau généré : 
+Element [cle=2747 val=L]
+Element [cle=3270 val=MGm]
+Element [cle=695 val=oz]
+Element [cle=3477 val=mlM]
+Element [cle=2216 val=]
 
 le tableau trié :
-Element [cle=0 val=null]
-Element [cle=0 val=null]
-Element [cle=0 val=null]
-Element [cle=0 val=null]
-Element [cle=0 val=null]
-...
+Element [cle=695 val=oz]
+Element [cle=2216 val=]
+Element [cle=2747 val=L]
+Element [cle=3270 val=MGm]
+Element [cle=3477 val=mlM]
 
-Le temps d'exécution est de : 12 ms
+le temps d'exécution est de : 
+0 ms
+
 ```
 
 N'hésitez pas à explorer le code source pour en savoir plus sur la mise en œuvre des algorithmes de tri et à expérimenter avec différentes tailles de tableaux ou méthodes de remplissage.
