@@ -1,10 +1,10 @@
 <div align="center">
 
-# Projet TP1 - Tri de Tableau d'Éléments
+# Tri de Tableau d'Éléments
 
 </div>
 
-Le projet **TP1 - Tri de Tableau d'Éléments** est une application Java qui met en œuvre différents algorithmes de tri pour trier un tableau d'éléments. Il permet de générer un tableau d'éléments aléatoires ou de le remplir manuellement, puis d'appliquer les algorithmes de tri pour obtenir le tableau trié.
+Le projet est une application Java qui met en œuvre différents algorithmes de tri pour trier un tableau d'éléments. Il permet de générer un tableau d'éléments aléatoires ou de le remplir manuellement, puis d'appliquer les algorithmes de tri pour obtenir le tableau trié.
 
 ## Classe "Element"
 
@@ -31,7 +31,7 @@ La classe **Test** contient la méthode principale `main` où le programme est l
 
 N'hésitez pas à explorer le code source et à exécuter le programme pour observer le fonctionnement des algorithmes de tri sur le tableau d'éléments.
 
-**Note**: Assurez-vous d'avoir les classes "Element", "TableauEl" et "Test" dans le même package (TP1) pour exécuter le programme correctement.
+**Note**: Assurez-vous d'avoir les classes "Element", "TableauEl" et "Test" dans le même package pour exécuter le programme correctement.
 
 ### Exemple d'exécution :
 
