@@ -1,11 +1,8 @@
-package TP1;
 import java.util.*;
 
 public class TableauEl {
  
-	// N nombre d'éléments
 	private int taille;
-	//le tableau d'éléments
 	private Element tab[];
 	
 	public TableauEl(int taille) {
